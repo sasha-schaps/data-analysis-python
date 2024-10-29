@@ -2,7 +2,7 @@
 <p>This is projects in python related to data analysis</p>
 <p><b>Explanation:</b></p>
 <ol>
-  <li><b>Import Libraries:</b>mports pandas for data manipulation and matplotlib.pyplot for plotting.</li>
+  <li><b>Import Libraries:</b> Imports pandas for data manipulation and matplotlib.pyplot for plotting.</li>
 <li><b>analyze_data() Function:</b>Takes the CSV file name as input.</li>
 <li><b>Reads CSV:</b> Uses pd.read_csv() to load the data into a DataFrame.</li>
 <li><b>Analysis:</b>
