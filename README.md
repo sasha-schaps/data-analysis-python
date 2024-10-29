@@ -8,8 +8,8 @@
 <li><b>Analysis:</b>
   df.describe() provides summary statistics (mean, count, etc.).
 df.corr() calculates correlations between numerical columns.</li>
-<li>Visualization:
+<li><b>Visualization:</b>
   Creates a histogram of a specified column (column_name).
 Creates a scatter plot between two columns (column1 and column2).
 Saves the plots as PNG images.</li>
-<li>Error Handling: Includes try-except blocks to handle potential errors like file not found or other exceptions during analysis.</li></ol>
+<li><b>Error Handling:</b> Includes try-except blocks to handle potential errors like file not found or other exceptions during analysis.</li></ol>
